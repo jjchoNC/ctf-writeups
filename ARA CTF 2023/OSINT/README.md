@@ -4,15 +4,13 @@
 
 > There was a secret leaked on Official ARA Website. It can only seen on January 22nd 2023. Can you turn back the time?
 
-### Solusi Challenge**
+### Solusi Challenge
 
 Dalam challenge diatas, deskripsi menyebutkan untuk mendapatkan flag yang ada pada website ARA pada tanggal 22 Januari 2023. Untuk mendapatkannya, kami menggunakan Internet Archive Wayback Machine (https://archive.org/web/)
 
-![](images/image-000.png)
+![](images/image-001.png)
 
-![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.003.jpeg)
-
-![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.004.jpeg)
+![](images/image-002.png)
 
 Untuk mendapatkan flag, lakukan view page source dan gunakan ctrl + f untuk mencari flag sesuai dengan format flag.
 
@@ -20,12 +18,6 @@ Untuk mendapatkan flag, lakukan view page source dan gunakan ctrl + f untuk menc
 
 
 ## Backroom
-
-![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.005.jpeg)
-
-- **Deskripsi Challenge**
-
-Pada challenge ini kita diberikan foto suatu tempat dan diminta untuk menemukan nama tempat tersebut. Setelah mendapatkan nama tempat tersebut, kita diminta untuk mencari flagnya pada ulasan Google mengenai tempat tersebut.
 
 - **Solusi Challenge**
 
@@ -45,12 +37,6 @@ Setelah mendapatkan lokasi dari foto tersebut, kita dapat menemukan flag dari ch
 
 
 ## Hey detective, can you help me
-
-![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.009.jpeg)
-
-- Deskripsi
-
-Pada challenge tersebut disebutkan bahwa terdapat seorang cosplayer yang berasal dari china yang aktif pada sosial media facebook dan Instagram, kemudian dia pernah pergi ke toko boneka dan buku dan di upload ke sosial media, dan yang terakhir dia juga pernah berkolaborasi dengan cosplayer lain dengan nama sakura. dan terdapat instruction pada chall tersebut. ARA2023{ProfileIDSosmed\_NamaUniversitas\_NamaMaskot\_TanggalBulanTahun-J am:Menit\_RedactedFlag}
 
 - Solusi
 

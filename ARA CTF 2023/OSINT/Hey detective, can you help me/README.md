@@ -9,7 +9,7 @@ Salah satu dari anggota tim kami teringat pernah melihat video yang disajikan pa
 
 Setelah mencari pada sosial media instagram, ternyata benar bahwa cosplayer tersebut bernama “Yanzikenko”, dan kami juga berhasil menemukan video yang diberikan oleh panitia pada akun Instagram kenko.
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-009.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-009.png" width="40%" height="auto" />
 
 kemudian kami menggunakan tool https://commentpicker.com/instagram-user-id.php) untuk mencari User ID pada instagram dia dan menemukan bahwa ID nya adalah “44793134117”
 

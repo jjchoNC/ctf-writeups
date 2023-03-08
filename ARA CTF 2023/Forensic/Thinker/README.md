@@ -4,7 +4,7 @@
 
 ## Solusi
 
-Langkah pertama yang dilakukan adalah mengekstrak file dan folder yang disematkan kedalam foto menggunakan tool binwalk
+Langkah pertama yang dilakukan adalah mengekstrak file dan folder yang disematkan kedalam foto menggunakan ```binwalk -e confused.png```
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Forensic/Thinker/images/image-001.png" width="20%" height="auto" />
 
@@ -12,15 +12,15 @@ Setelah itu, buka file e.txt dan decrypt value yang ada didalamnya menggunakan o
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Forensic/Thinker/images/image-002.png" width="60%" height="auto" />
 
-Didaptkan flag part1 (ARA2023{),  lalu ekstrak find.zip dan decrypt value yang ada pada a.txt dengan operation from HEX pada CyberChef.
+Didaptkan **flag part1 (ARA2023{)**,  lalu ekstrak find.zip dan decrypt value yang ada pada a.txt dengan operation from HEX pada CyberChef.
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Forensic/Thinker/images/image-003.png" width="60%" height="auto" />
 
-Didapatkan flag part2(5!mpl3\_). Selanjutnya extrace something.zip dan decrypt binary yang ada pada s.txt dengan operation from binary pada CyberChef.
+Didapatkan **flag part2(5!mpl3\_)**. Selanjutnya extrace something.zip dan decrypt binary yang ada pada s.txt dengan operation from binary pada CyberChef.
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Forensic/Thinker/images/image-004.png" width="60%" height="auto" />
 
-Didapatkan flag part 3(C0rrupt3d\_). Selanjutnya extrace supicious.zip dan perbaiki file y.png yang corrupt dengan mengedit 16 bytes hex awal.
+Didapatkan **flag part 3(C0rrupt3d\_)**. Selanjutnya extrace supicious.zip dan perbaiki file y.png yang corrupt dengan mengedit 16 bytes hex awal.
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Forensic/Thinker/images/image-005.png" width="60%" height="auto" />
 
@@ -31,5 +31,5 @@ Buka foto dan decrypt angka -angka yang ada pada y.png dengan menggunakan operat
 Jika semua part flag disusun akan membentuk flag yang lengkap.
 
 ```
-Flag: ARA2023{5!mpl3\_C0rrupt3d\_1m4ge5}
+Flag: ARA2023{5!mpl3_C0rrupt3d_1m4ge5}
 ```

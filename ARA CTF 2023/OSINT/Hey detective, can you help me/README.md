@@ -13,7 +13,7 @@ Setelah mencari pada sosial media instagram, ternyata benar bahwa cosplayer ters
 
 kemudian kami menggunakan tool https://commentpicker.com/instagram-user-id.php) untuk mencari User ID pada instagram dia dan menemukan bahwa ID nya adalah “44793134117”
 
-<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-010.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-010.png" width="20%" height="auto" />
 
 Setelah mencari pada akun Instagram nya kami tidak menemukan hal hal yang terkoneksi dengan deskripsi soal, oleh karena itu kami berpindah ke facebook. Pada facebook kami berusaha mencari post kenko yang berhubungan dengan Universitas, Toko Buku, dan Toko Boneka, setelah scroll scroll facebook kami mendapatkan post yang berhubungan dengan hal tersebut antara lain sebagai berikut:
 
@@ -35,7 +35,7 @@ Gambar 4
 
 Gambar 5
 
-<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-016.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-016.png" width="20%" height="auto" />
 
 Gambar 6
 

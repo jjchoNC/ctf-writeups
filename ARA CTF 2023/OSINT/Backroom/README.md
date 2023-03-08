@@ -4,9 +4,14 @@
 
 ## Solusi Challenge
 
+<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/IMG20221221153220.jpg" width="40%" height="auto" />
+
 Pada challenge diatas diberikan foto suatu tempat, kita menggunakan exiftool untuk mendapatkan GPS latitude dan GPS longitude.
 
-<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/image-004.png" width="100%" height="auto" />
+```
+exiftool IMG20221221153220.jpg     
+```
+<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/image-004.png" width="40%" height="auto" />
 
 Setelah itu, kita dapat mencarinya melalui https://www.gps-coordinates.net/
 

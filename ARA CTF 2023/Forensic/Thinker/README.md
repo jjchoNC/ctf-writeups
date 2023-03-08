@@ -4,9 +4,9 @@
 
 ## Solusi
 
-Langkah pertama yang dilakukan adalah mengekstrak file dan folder yang disematkan kedalam foto menggunakan ```binwalk -e confused.png```
-
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Forensic/Thinker/images/image-001.png" width="20%" height="auto" />
+
+Langkah pertama yang dilakukan adalah mengekstrak file dan folder yang disematkan kedalam foto menggunakan ```binwalk -e confused.png```
 
 Setelah itu, buka file e.txt dan decrypt value yang ada didalamnya menggunakan operation to from base64 pada CyberChef.
 

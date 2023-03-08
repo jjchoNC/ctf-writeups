@@ -15,6 +15,6 @@ Dalam challenge diatas, deskripsi menyebutkan untuk mendapatkan flag yang ada pa
 Untuk mendapatkan flag, lakukan view page source dan gunakan CTRL + F untuk mencari flag sesuai dengan format flag.
 
 ```
-Flag :ARA2023{d1gIt4l\_f00tpr1nt\_1s\_sC4ry}
+Flag :ARA2023{d1gIt4l_f00tpr1nt_1s_sC4ry}
 ```
 

@@ -19,11 +19,13 @@ Untuk mendapatkan flag, lakukan view page source dan gunakan ctrl + f untuk menc
 
 ## Backroom
 
-- **Solusi Challenge**
+> I found a place that give me a backroom vibes. I think I like this place, so I give this place 5 star. Can you find this place?
+
+### Solusi Challenge
 
 Pada challenge diatas diberikan foto suatu tempat, kita menggunakan exiftool untuk mendapatkan GPS latitude dan GPS longitude.
 
-![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.006.png)
+![](images/image-004.png)
 
 Setelah itu, kita dapat mencarinya melalui https://www.gps-coordinates.net/
 

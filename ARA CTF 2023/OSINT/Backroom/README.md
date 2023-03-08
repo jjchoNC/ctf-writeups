@@ -6,7 +6,7 @@
 
 Pada challenge diatas diberikan foto suatu tempat, kita menggunakan exiftool untuk mendapatkan GPS latitude dan GPS longitude.
 
-![](images/image-005.png)
+![](images/image-004.png)
 
 Setelah itu, kita dapat mencarinya melalui https://www.gps-coordinates.net/
 

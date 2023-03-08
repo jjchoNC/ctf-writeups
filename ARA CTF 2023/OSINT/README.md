@@ -4,7 +4,7 @@
 
 > There was a secret leaked on Official ARA Website. It can only seen on January 22nd 2023. Can you turn back the time?
 
-### Solusi Challenge
+- Solusi Challenge
 
 Dalam challenge diatas, deskripsi menyebutkan untuk mendapatkan flag yang ada pada website ARA pada tanggal 22 Januari 2023. Untuk mendapatkannya, kami menggunakan Internet Archive Wayback Machine (https://archive.org/web/)
 
@@ -21,7 +21,7 @@ Untuk mendapatkan flag, lakukan view page source dan gunakan ctrl + f untuk menc
 
 > I found a place that give me a backroom vibes. I think I like this place, so I give this place 5 star. Can you find this place?
 
-### Solusi Challenge
+- Solusi Challenge
 
 Pada challenge diatas diberikan foto suatu tempat, kita menggunakan exiftool untuk mendapatkan GPS latitude dan GPS longitude.
 

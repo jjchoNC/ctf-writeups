@@ -4,7 +4,7 @@
 
 ## Solusi Challenge
 
-<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/IMG20221221153220.jpg" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/IMG20221221153220.jpg" width="20%" height="auto" />
 
 Pada challenge diatas diberikan foto suatu tempat, kita menggunakan exiftool untuk mendapatkan GPS latitude dan GPS longitude.
 

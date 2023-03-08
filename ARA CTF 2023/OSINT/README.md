@@ -2,7 +2,7 @@
 
 ## Time Machine
 
-![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.001.jpeg)
+>> There was a secret leaked on Official ARA Website. It can only seen on January 22nd 2023. Can you turn back the time?
 
 - **Deskripsi Challenge**
 

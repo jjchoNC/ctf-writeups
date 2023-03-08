@@ -10,7 +10,7 @@ Pada challenge diatas diberikan foto suatu tempat, kita menggunakan exiftool unt
 
 Setelah itu, kita dapat mencarinya melalui https://www.gps-coordinates.net/
 
-![](images/image-006.png | width=412)
+![](images/image-006.png)
 
 Setelah mendapatkan lokasi dari foto tersebut, kita dapat menemukan flag dari challenge ini pada kolom ulasan Google tentang lokasi tersebut.
 

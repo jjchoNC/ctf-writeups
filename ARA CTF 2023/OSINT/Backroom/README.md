@@ -14,7 +14,7 @@ Setelah itu, kita dapat mencarinya melalui https://www.gps-coordinates.net/
 
 Setelah mendapatkan lokasi dari foto tersebut, kita dapat menemukan flag dari challenge ini pada kolom ulasan Google tentang lokasi tersebut.
 
-<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/image-007.png" width="70%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/image-007.png" width="40%" height="auto" />
 
 ```
 Flag :ARA2023{c4r3full\_w1th\_y0uR\_m3tad4ta}

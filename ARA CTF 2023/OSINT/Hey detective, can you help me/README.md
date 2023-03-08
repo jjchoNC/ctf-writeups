@@ -9,33 +9,33 @@ Salah satu dari anggota tim kami teringat pernah melihat video yang disajikan pa
 
 Setelah mencari pada sosial media instagram, ternyata benar bahwa cosplayer tersebut bernama “Yanzikenko”, dan kami juga berhasil menemukan video yang diberikan oleh panitia pada akun Instagram kenko.
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-009.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-009.png" width="40%" height="auto" />
 
 kemudian kami menggunakan tool https://commentpicker.com/instagram-user-id.php) untuk mencari User ID pada instagram dia dan menemukan bahwa ID nya adalah “44793134117”
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-010.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-010.png" width="40%" height="auto" />
 
 Setelah mencari pada akun Instagram nya kami tidak menemukan hal hal yang terkoneksi dengan deskripsi soal, oleh karena itu kami berpindah ke facebook. Pada facebook kami berusaha mencari post kenko yang berhubungan dengan Universitas, Toko Buku, dan Toko Boneka, setelah scroll scroll facebook kami mendapatkan post yang berhubungan dengan hal tersebut antara lain sebagai berikut:
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-011.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-011.png" width="40%" height="auto" />
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-012.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-012.png" width="40%" height="auto" />
 
 Gambar 2
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-013.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-013.png" width="40%" height="auto" />
 
 Gambar 3
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-014.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-014.png" width="40%" height="auto" />
 
 Gambar 4
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-015.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-015.png" width="40%" height="auto" />
 
 Gambar 5
 
-<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective,%20can%20you%20help%20me/images/image-016.png" width="40%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/edit/main/ARA%20CTF%202023/OSINT/Hey%20detective%20can%20you%20help%20me/images/image-016.png" width="40%" height="auto" />
 
 Gambar 6
 

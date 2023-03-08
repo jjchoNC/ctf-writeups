@@ -8,7 +8,7 @@
 
 Dalam challenge diatas, deskripsi menyebutkan untuk mendapatkan flag yang ada pada website ARA pada tanggal 22 Januari 2023. Untuk mendapatkannya, kami menggunakan Internet Archive Wayback Machine (https://archive.org/web/)
 
-![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.002.jpeg)
+![](images/image-000.png)
 
 ![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.003.jpeg)
 

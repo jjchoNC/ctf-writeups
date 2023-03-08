@@ -44,5 +44,5 @@ Setelah mencari pada akun Instagram nya kami tidak menemukan hal hal yang terkon
 Pada Gambar 1 ditemukan post dari kenko bahwa dia mengunjungi Toko buku dengan posisi duduk, dapat dilihat pada gambar tersebut ditunjukkan waktu upload nya adalah 3Juni2019-10:25, kemudian pada Gambar 2 dan 3, ditemukan juga post kenko sedang berfoto pada toko boneka dengan maskot tersebut, kemudian kami mencari foto maskot tersebut dengan menggunakan google lens dan menemukan nama maskot nya adalah Molly, setelah itu pada gambar 4 kami mencari kata “Flag” pada akun dari kenko di facebook dan menemukan sebuah komentar dari user yang menyatakan flag tersebut yang berbunyi Y0u4r3ThE0s1nTm45t3R, dan yang terakhir adalah universitas dari kenko yang dapat ditemukan pada postingan facebook kenko (pada gambar 6) yang berada pada Beijing Normal University yang dapat disingkat BNU. Untuk mensubmit flag kami menggabungkan segala hal yang telah kami dapatkan dan flag terakhir adalah
 
 ```
-Flag: ARA2023{44793134117\_BNU\_Molly\_3Juni2019-10:25\_Y0u4r3ThE0 s1nTm45t3R}
+Flag: ARA2023{44793134117_BNU_Molly_3Juni2019-10:25_Y0u4r3ThE0 s1nTm45t3R}
 ```

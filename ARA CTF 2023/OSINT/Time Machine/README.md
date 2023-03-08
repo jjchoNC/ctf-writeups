@@ -10,7 +10,10 @@ Dalam challenge diatas, deskripsi menyebutkan untuk mendapatkan flag yang ada pa
 
 ![](images/image-002.png)
 
+![](images/image-003.png)
+
 Untuk mendapatkan flag, lakukan view page source dan gunakan ctrl + f untuk mencari flag sesuai dengan format flag.
 
 **Flag :ARA2023{d1gIt4l\_f00tpr1nt\_1s\_sC4ry}**
+```
 

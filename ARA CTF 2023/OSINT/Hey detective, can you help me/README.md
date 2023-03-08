@@ -19,28 +19,30 @@ Setelah mencari pada akun Instagram nya kami tidak menemukan hal hal yang terkon
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-011.png" width="40%" height="auto" />
 
+**Gambar 1**
+
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-012.png" width="40%" height="auto" />
 
-Gambar 2
+**Gambar 2**
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-013.png" width="40%" height="auto" />
 
-Gambar 3
+**Gambar 3**
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-014.png" width="40%" height="auto" />
 
-Gambar 4
+**Gambar 4**
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-015.png" width="40%" height="auto" />
 
-Gambar 5
+**Gambar 5**
 
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Hey%20detective%2C%20can%20you%20help%20me/images/image-016.png" width="20%" height="auto" />
 
-Gambar 6
+**Gambar 6**
 
 Pada Gambar 1 ditemukan post dari kenko bahwa dia mengunjungi Toko buku dengan posisi duduk, dapat dilihat pada gambar tersebut ditunjukkan waktu upload nya adalah 3Juni2019-10:25, kemudian pada Gambar 2 dan 3, ditemukan juga post kenko sedang berfoto pada toko boneka dengan maskot tersebut, kemudian kami mencari foto maskot tersebut dengan menggunakan google lens dan menemukan nama maskot nya adalah Molly, setelah itu pada gambar 4 kami mencari kata “Flag” pada akun dari kenko di facebook dan menemukan sebuah komentar dari user yang menyatakan flag tersebut yang berbunyi Y0u4r3ThE0s1nTm45t3R, dan yang terakhir adalah universitas dari kenko yang dapat ditemukan pada postingan facebook kenko (pada gambar 6) yang berada pada Beijing Normal University yang dapat disingkat BNU. Untuk mensubmit flag kami menggabungkan segala hal yang telah kami dapatkan dan flag terakhir adalah
 
 ```
-Flag ARA2023{44793134117\_BNU\_Molly\_3Juni2019-10:25\_Y0u4r3ThE0 s1nTm45t3R}
+Flag: ARA2023{44793134117\_BNU\_Molly\_3Juni2019-10:25\_Y0u4r3ThE0 s1nTm45t3R}
 ```

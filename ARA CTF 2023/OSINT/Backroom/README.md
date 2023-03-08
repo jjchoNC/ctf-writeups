@@ -22,5 +22,5 @@ Setelah mendapatkan lokasi dari foto tersebut, kita dapat menemukan flag dari ch
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/OSINT/Backroom/images/image-007.png" width="40%" height="auto" />
 
 ```
-Flag :ARA2023{c4r3full\_w1th\_y0uR\_m3tad4ta}
+Flag :ARA2023{c4r3full_w1th_y0uR_m3tad4ta}
 ```

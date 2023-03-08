@@ -16,7 +16,6 @@ Untuk mendapatkan flag, lakukan view page source dan gunakan ctrl + f untuk menc
 
 **Flag :ARA2023{d1gIt4l\_f00tpr1nt\_1s\_sC4ry}**
 
-
 ## Backroom
 
 > I found a place that give me a backroom vibes. I think I like this place, so I give this place 5 star. Can you find this place?

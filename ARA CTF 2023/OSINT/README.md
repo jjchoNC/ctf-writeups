@@ -22,7 +22,9 @@ Untuk mendapatkan flag, lakukan view page source dan gunakan ctrl + f untuk menc
 
 **Flag :ARA2023{d1gIt4l\_f00tpr1nt\_1s\_sC4ry}**
 
-## Backroom![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.005.jpeg)**
+## Backroom
+
+![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.005.jpeg)
 
 - **Deskripsi Challenge**
 
@@ -44,7 +46,7 @@ Setelah mendapatkan lokasi dari foto tersebut, kita dapat menemukan flag dari ch
 
 **Flag :ARA2023{c4r3full\_w1th\_y0uR\_m3tad4ta}**
 
-**Hey detective, can you help me**
+## Hey detective, can you help me
 
 ![](Aspose.Words.dd5bdc20-b2db-4d6a-b030-6f166ebb0d2d.009.jpeg)
 

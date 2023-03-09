@@ -6,7 +6,7 @@
 
 Kita hanya perlu menggunakan operation XOR untuk mendapatkan flag.
 
-<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Cryptography/One%20Time%20Password/images/image-001.png" width="20%" height="auto" />
+<img src="https://github.com/jjchoNC/ctf-writeups/blob/main/ARA%20CTF%202023/Cryptography/One%20Time%20Password/images/image-001.png" width="70%" height="auto" />
 
 
 ```

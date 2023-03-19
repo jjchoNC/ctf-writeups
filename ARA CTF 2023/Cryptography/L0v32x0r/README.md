@@ -1,6 +1,10 @@
 <h1 align="center">L0v320r</h1>
 
 ## Deskripsi Soal
+<p>Vanny and Zee were having a treasure hunt game until they realized that one of the clues was a not alike the other clues as it has a random text written on the clue </p>
+<p>The clue was :</p>
+<p>"001300737173723a70321e3971331e352975351e247574387e3c"</p>
+<p>Help Them to find what the hidden clue means!</p>
 
 ## Solusi Challenge 
 Kita hanya perlu menggunakan opsi Magic pada cyberchef untuk mencari Flagnya 

@@ -17,5 +17,7 @@
 
 
 ## Forensic
-- [Thinker](Forensic/Thinker/)
+- [Me(me)tadata](Forensic/Me(me)tadata/)
+- [Been There Done That](Forensic/Been%20There%20Done%20That/)
+- [Date Night](Forensic/Date%20Night/)
 

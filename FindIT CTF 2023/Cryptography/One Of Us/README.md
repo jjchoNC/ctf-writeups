@@ -15,13 +15,13 @@
 > Pada attachments terdapat encrypted text yang apabila di decrypt
 > dengan vigenere decoder akan menghasilkan output sebagai berikut.
 >
-> <img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Cryptography/One%20Of%20Us/image/image24.jpg" width="45%" height="auto" />
+> <img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Cryptography/One%20Of%20Us/image/image24.jpg" width="60%" height="auto" />
 >
 > Nampak bahwa key yang paling sesuai adalah “BDBCFDA”, karena hasil
 > decrypt dengan key tersebut akan menghasilkan output yang paling
 > sesuai dan dapat dibaca.
 >
-> <img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Cryptography/One%20Of%20Us/image/image25.jpg" width="45%" height="auto" />
+> <img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Cryptography/One%20Of%20Us/image/image25.jpg" width="60%" height="auto" />
 >
 > Kemudian kami melihat pada file new_encoder.py terdapat sebuah
 > komentar pada akhir program nya seperti berikut.
@@ -52,7 +52,7 @@
 > langkah terakhir adalah dengan melakukan enkripsi pada "HAPPY SWEET
 > SEVENTEEN FREDDIE" dengan vigenere cipher.
 > 
-> <img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Cryptography/One%20Of%20Us/image/image26.jpg" width="45%" height="auto" />>
+> <img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Cryptography/One%20Of%20Us/image/image26.jpg" width="60%" height="auto" />>
 > 
 > Hasil dari enkripsinya adalah "JDWSE YXGHA VKBFPWLHT LSGGKLK".
 >

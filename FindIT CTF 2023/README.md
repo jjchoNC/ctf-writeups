@@ -32,5 +32,5 @@
 
 ## Reverse Engine
 - [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)
-- [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)
+- [Furr(y)verse](Reverse%20Engine/Furr(y)verse/)
 - [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)

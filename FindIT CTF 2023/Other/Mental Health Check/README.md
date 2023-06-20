@@ -21,6 +21,5 @@
 >
 > <img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Other/Mental%20Health%20Check/images/image65.jpg" width="60%" height="auto" />
 
-Flag :
-
+```
 FindITCTF{everyone_asks_who_are_you_but_not_how_are_you}

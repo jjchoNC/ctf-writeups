@@ -11,7 +11,13 @@
 ## Web Exploitation
 
 ## Cryptography
-
+- [Choo-Choo](Cryptography/Choo-Choo/)
+- [Confusing Encryption](Cryptography/Confusing%20Encryption/)
+- [Detective Handal](Cryptography/Detective%20Handal/)
+- [I Like Matrix](Cryptography/I%20Like%20Matrix/)
+- [One Of Us](Cryptography/One%20Of%20Us/)
+- [Randomized Seed](Cryptography/Randomized%20Seed/)
+- [CRYptograPI](Cryptography/CRYptograPI/) 
 
 ## Misc
 

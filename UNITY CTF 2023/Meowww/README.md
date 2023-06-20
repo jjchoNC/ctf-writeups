@@ -1,7 +1,7 @@
 <h1 align="center">Meowww</h1>
 
 <p align="center">
-<img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Forensic/Date%20Night/Files/1.png" width="45%" height="auto" />
+<img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/UNITY%20CTF%202023/Meowww/Files/1.png" width="45%" height="auto" />
 </p>
 
 ## Deskripsi Challenge
@@ -13,7 +13,7 @@
 <p align="justify">Langkah pertama yang kami lakukan adalah menjalankan perintah <strong>"steghide extract -sf chall1.jpeg"</strong>.</p>
 
 <p align="center">
-<img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/Forensic/Date%20Night/Files/2.png" width="45%" height="auto" />
+<img align="center" src="https://github.com/jjchoNC/ctf-writeups/blob/main/UNITY%20CTF%202023/Meowww/Files/2.png" width="45%" height="auto" />
 </p>
 
 <p align="justify">Akan didapatkan file flag.txt yang berisi flag.  </p>

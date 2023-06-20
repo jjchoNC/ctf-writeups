@@ -9,6 +9,8 @@
 - [Mixtape](OSINT/Mixtape/)
 
 ## Web Exploitation
+- [Cyber Security Article](Web/Cyber%20Security%20Article/)
+- [Find IT](Web/Find%20IT/)
 
 ## Cryptography
 - [Choo-Choo](Cryptography/Choo-Choo/)
@@ -28,3 +30,7 @@
 - [Been There Done That](Forensic/Been%20There%20Done%20That/)
 - [Date Night](Forensic/Date%20Night/)
 
+## Reverse Engine
+- [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)
+- [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)
+- [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)

@@ -33,4 +33,5 @@
 ## Reverse Engine
 - [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)
 - [Furr(y)verse](Reverse%20Engine/Furr(y)verse/)
-- [Bypass the Py](Reverse%20Engine/Bypass%20the%20Py/)
+- [Joy Sketching in Matrix](Reverse%20Engine/Joy%20Sketching%20in%20Matrix/)
+- [Top-Level Security](Top-Level%20Security)

@@ -16,7 +16,7 @@
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/OSINT/Twitch%20Frogs/Files/2.png" width="75%" height="auto" />
 </p>
 
-<p align="justify">Dan muncul sebuah list tanggal user mengecha pada channel tersebut.  </p>
+<p align="justify">Dan muncul sebuah list tanggal user mengechat pada channel tersebut.  </p>
 
 <p align="center">
 <img src="https://github.com/jjchoNC/ctf-writeups/blob/main/FindIT%20CTF%202023/OSINT/Twitch%20Frogs/Files/3.png" width="75%" height="auto" />

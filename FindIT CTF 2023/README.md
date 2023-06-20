@@ -20,7 +20,8 @@
 - [CRYptograPI](Cryptography/CRYptograPI/) 
 
 ## Misc
-
+- [Mental Health Check](Other/Mental%20Health%20Check/)
+- [Discovered](Other/Discovered/)
 
 ## Forensic
 - [Me(me)tadata](Forensic/Me(me)tadata/)

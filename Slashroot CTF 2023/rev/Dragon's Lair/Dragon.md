@@ -38,7 +38,7 @@ Got encrypted flag.
 ------------------------------------------
 | Congratulations on your victory Chief! |
 ------------------------------------------
-flag: GQKV_H[[_LP[ZJV[ZL_YQPMR_G[L_]VW[H[S[PJ
+flag: <*0e-$3 e $7+ !e1- e!7$"*+e6)$< 7e$&-, 3 ( +1
 ```
 Find the encryption method by decompiling the ELF file.
 ```c

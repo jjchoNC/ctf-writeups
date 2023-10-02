@@ -4,3 +4,4 @@
 - [picoCTF 2023](/PICO%20CTF%202023/)
 - [Unity CTF 2023](/UNITY%20CTF%202023/)
 - [FindIT CTF 2023](/FindIT%20CTF%202023/)
+- [Slashroot CTF 2023](/Slashroot%20CTF%202023/)

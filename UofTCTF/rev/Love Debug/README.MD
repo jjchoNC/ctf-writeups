@@ -63,7 +63,7 @@ after the program runs and asks for user input. press ```ctrl + c``` on your key
 
 readAddr = 0x404272
 
-Then dump the memory from address ```0x406000 to 0x406000 + arraySize```.
+Dump the memory from address ```0x406000 to 0x406000 + arraySize``` then search flag inside that dumped file.
 
 Solver script :
 

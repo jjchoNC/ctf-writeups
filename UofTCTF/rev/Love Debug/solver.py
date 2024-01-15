@@ -8,7 +8,7 @@ gdb.execute("file {}".format(file))
 readAddr = 0x404272
 gdb.execute(f"b *{readAddr}")
 arrayAddr = 0x406000
-arraySize = 3000
+arraySize = 30000
 gdb.execute("r < temp")
 gdb.execute(f"dump memory {file}-dump {hex(arrayAddr)} {hex(arrayAddr + arraySize)}")
 

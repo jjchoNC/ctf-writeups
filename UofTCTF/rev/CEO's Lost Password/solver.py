@@ -1,5 +1,5 @@
 enc = "瑥⽦䩧㡡倰噕卖䝃捉㉌永敲畴楺癲湊".encode('utf-16be')
-
+print(enc)
 import base64
 dec = list(base64.b64decode(enc.decode()))
 var2 = 1

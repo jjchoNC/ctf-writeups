@@ -10,3 +10,5 @@ while var2 <= len(dec):
         var3 += 1
     var2 += 1
 print(f"uoftctf{{{''.join([chr(i) for i in dec])}}}")
+
+# Flag : uoftctf{%S7rONgadMInPaSSwORd32!%}

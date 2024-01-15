@@ -1,4 +1,4 @@
-class a {
+public class a {
    private final String a;
    private final float b;
 

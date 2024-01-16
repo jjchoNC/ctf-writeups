@@ -35,7 +35,7 @@ Given simple RSA encryption script with ```e``` value is encoded with [Music She
 
 **Decode the e value**
 
-![Alt text](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/crypto/pianoman/images/musical_decode.png)
+![Alt text](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/crypto/pianoman/images/music_decode.png)
 
 ```e``` = 7029307
 

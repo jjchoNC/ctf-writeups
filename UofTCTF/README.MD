@@ -1,6 +1,7 @@
 # UofTCTF 2024
 --------------------------------
 Team Name  : HCS
+
 Scoreboard : [CTFtime](https://ctftime.org/event/2219)
 
 | Category | Challenge |

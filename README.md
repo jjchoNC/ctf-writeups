@@ -8,3 +8,4 @@
 
 ## 2024
 - [UofTCTF 2024](/UofTCTF/)
+- [MapnaCTF 2024](/MapnaCTF%202024/)

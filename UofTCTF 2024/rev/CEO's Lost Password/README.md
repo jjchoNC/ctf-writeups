@@ -8,18 +8,18 @@ If you could recover my account you can use my password as a flag (flag would be
 You can try the bank software by running java -jar BankChallenge.jar and use the admin user user with the password
 
 Author: Ido
-File : [BankChallenge.jar](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/CEO's%20Lost%20Password/BankChallenge.jar)
+File : [BankChallenge.jar](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/CEO's%20Lost%20Password/BankChallenge.jar)
 
 ## Solution
 Use [jd-GUI](https://java-decompiler.github.io/) to decompile ```.class``` file inside the given ```.jar``` file.
 
 Result :
-[Main.java](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/CEO's%20Lost%20Password/Main.java) +
-[a.java](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/CEO's%20Lost%20Password/a.java)
+[Main.java](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/CEO's%20Lost%20Password/Main.java) +
+[a.java](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/CEO's%20Lost%20Password/a.java)
 
 Debug the decompiled code to get the encrypted admin's password.
 
-![Debug](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/CEO's%20Lost%20Password/images/debug.png)
+![Debug](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/CEO's%20Lost%20Password/images/debug.png)
 
 Encrypted admin password : ```瑥⽦䩧㡡倰噕卖䝃捉㉌永敲畴楺癲湊```
 

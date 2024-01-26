@@ -16,10 +16,10 @@ Here's your flag:  a81c0750d48f0750
 ```
 Author: cartoonraccoon
 
-Files : [wobler](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/All%20Worbled%20Up/worbler) [Python Opcodes]
+Files : [wobler](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/All%20Worbled%20Up/worbler) [Python Opcodes]
 
 ## Solution
-Ask your friend (chatGPT) to convert the python opcodes to a normal python code [[chall.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/All%20Worbled%20Up/chall.py)].
+Ask your friend (chatGPT) to convert the python opcodes to a normal python code [[chall.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/All%20Worbled%20Up/chall.py)].
 
 From the regex pattern 
 ```py
@@ -27,7 +27,7 @@ re_pattern = re.compile('^uoftctf\\{([bdrw013]){9}\\}$')
 ``` 
 we know the flag consists of uoftctf{} which contains 9 characters from "bdrw013" so we can carry out a bruteforce attack using the following script.
 
-[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/All%20Worbled%20Up/solver.py)
+[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/All%20Worbled%20Up/solver.py)
 ```py
 from itertools import product
 import re

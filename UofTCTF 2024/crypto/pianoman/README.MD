@@ -14,7 +14,7 @@ q = 1749846454012330718256657080025221216124852265307061327120108874876429730217
 n = p * q
 
 # a public exponent hidden away by Windy's musical talents
-e = #https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/crypto/pianoman/images/musical_e.png
+e = #https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/crypto/pianoman/images/musical_e.png
 
 
 # Converting the message to an integer
@@ -35,12 +35,12 @@ Given simple RSA encryption script with ```e``` value is encoded with [Music She
 
 **Decode the e value**
 
-![Alt text](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/crypto/pianoman/images/music_decode.png)
+![Alt text](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/crypto/pianoman/images/music_decode.png)
 
 ```e``` = 7029307
 
 **Decrypt the cipher text**
-[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/crypto/pianoman/solver.py)
+[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/crypto/pianoman/solver.py)
 ```py
 from Crypto.Util.number import *
 

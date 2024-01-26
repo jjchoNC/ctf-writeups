@@ -5,14 +5,14 @@ Side Note: A love letter is what inspired the author to become a hacker.
 
 Author: drec
 
-File  : [love-letter-for-you](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/Love%20Debug/love-letter-for-you) [ELF file]
+File  : [love-letter-for-you](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/Love%20Debug/love-letter-for-you) [ELF file]
 
 ## Solution
 In the description above there was the word "dump" in italics, so i thought i should dump something. But first of all, Decompile the given ELF file, from the decompiled code we can see that the program doing somtehing on BYTE array on address 0x406000.
 
-![Decompile](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/Love%20Debug/images/image.png) 
+![Decompile](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/Love%20Debug/images/image.png) 
 
-![arrayAddr](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/Love%20Debug/images/arrayAddr.png) 
+![arrayAddr](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/Love%20Debug/images/arrayAddr.png) 
 
 Note : Because there is no PIE on the ELF file so the address offset is 0x400000 and not randomized.
 ```bash
@@ -59,7 +59,7 @@ You're just here for the flag, are you?
 ```
 after the program runs and asks for user input. press ```ctrl + c``` on your keyboard to terminates the action of the program and you'll see like this.
 
-![readAddr](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/Love%20Debug/images/readAddr.png)
+![readAddr](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/Love%20Debug/images/readAddr.png)
 
 readAddr = 0x404272
 
@@ -70,7 +70,7 @@ Solver script :
 ```bash
 gdb -x solver.py
 ```
-[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/Love%20Debug/solver.py) 
+[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/Love%20Debug/solver.py) 
 ```py
 import gdb
 import re

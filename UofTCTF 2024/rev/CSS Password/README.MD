@@ -7,16 +7,16 @@ Make sure to use a browser that supports the CSS :has selector, such as Firefox 
 
 Author: notnotpuns
 
-File : [css-password.html](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/CSS%20Password/css-password.html)
+File : [css-password.html](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/CSS%20Password/css-password.html)
 
 ## Solution
 It's an uniqe chall, that check the user input using css. From the given html file, we can found the logic of the key checker.
 
-![logic](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/CSS%20Password/images/FlagChecker.png)
+![logic](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/CSS%20Password/images/FlagChecker.png)
 
 If the ```transform: translateX(-100%);``` on condition ```.latch__set:active```, it means on ```.byte:nth-child(n)``` and ```.latch:nth-child(n)``` is should be set to "1" and vice versa. So i use regex on python to solve this chall.
 
-[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF/rev/CSS%20Password/solver.py)
+[solver.py](https://github.com/jjchoNC/ctf-writeups/blob/main/UofTCTF%202024/rev/CSS%20Password/solver.py)
 ```py
 import re
 

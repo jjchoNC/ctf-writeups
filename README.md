@@ -7,5 +7,6 @@
 - [Slashroot CTF 2023](/Slashroot%20CTF%202023/)
 
 ## 2024
-- [UofTCTF 2024](/UofTCTF/)
+- [UofTCTF 2024](/UofTCTF%202024/)
 - [MapnaCTF 2024](/MapnaCTF%202024/)
+- [KnightCTF 2024](/Knight%20CTF%202024/)

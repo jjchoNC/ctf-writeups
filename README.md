@@ -1,6 +1,6 @@
 # CTF Writeups
 
-## Challenges
+## My Challenges
 ### 2024
 - [FLAGCHECKER](challenges/FLAGCHECKER/)
 - [MCADDON](challenges/MCADDON/)

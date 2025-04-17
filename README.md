@@ -1,5 +1,7 @@
 # CTF Writeups
 
+You can see the detailed writeup at the following [link](https://jjcho.gitbook.io/ctfs)
+
 ## My Challenges
 ### 2024
 - [FLAGCHECKER](challenges/FLAGCHECKER/)
